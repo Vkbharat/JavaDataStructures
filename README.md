@@ -7,3 +7,5 @@ Java based Data Structure Implementation
 Sorting Techniques
 1.Bubble sort (without temp variable swapping)
 2.Selection sort (swapping using xor operator)
+
+Duplicates removal from single linked list with and without Buffer
